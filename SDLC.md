@@ -11,7 +11,7 @@
 
 1. [Planning](#planning)
 2. [Analysis](#analysis)
-3. Design
+3. [Design](#design) 
 4. Development
 5. Testing/Debugging
 6. Implementation
@@ -46,4 +46,14 @@ existing system processes.
 *Identify stakeholders' needs,* preferences, and challenges. Ensure project
 meets expectations. ![SDLCExample](img/sdlc_example.png)
 
+## Design
 
+*User-centric design.* Meets their needs and preferences.
+
+*Usability.* Intuitive, easy to use. Accessible _(usable by as many people as
+possible, even with disabilities)_ and ergonomic.
+
+*Feedback Integration.* Involving end users in the planning process. Open to
+suggestions.
+
+*Adoption and acceptance* by end-user due to good design: *Long term success*.
