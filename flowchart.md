@@ -31,4 +31,5 @@ parallelogram. [Image 0002](img/img25apr0002.jpg)
 
 25 Apr 2024
 [0002](img/img25apr0002.jpg)
+[0003](img/img25apr0003.jpg)
 
