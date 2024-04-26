@@ -10,7 +10,7 @@ right. The flowchart has a logical *start and finish*.
 
 | Description			| Shape |
 | --- | --- |
-| *Start and end*		| rounded rectangle |
+| *Start and end*		| rounded rectangle / ellipse |
 | *Process*				| rectangle |
 | *Input and output*	| parallelogram |
 | *Condition*			| diamond (also called *selection* or *decision*) |
@@ -31,5 +31,7 @@ parallelogram. [Image 0002](img/img25apr0002.jpg)
 
 25 Apr 2024
 [0002](img/img25apr0002.jpg)
-[0003](img/img25apr0003.jpg)
+[ss](img/ss-2024-04-25.png)
 
+26 Apr 2024
+[0003](img/img2526apr0003.jpg)
