@@ -35,3 +35,10 @@ parallelogram. [Image 0002](img/img25apr0002.jpg)
 
 26 Apr 2024
 [0003](img/img2526apr0003.jpg)
+[0004](img/img26apr0004.jpg)
+
+## Looping
+
+To loop, make an arrow from a condition (diamond) point backwards. [Example](
+img/img2526apr003.jpg). No differentiation between while and for, etc. since
+flowcharts use only diamonds.
